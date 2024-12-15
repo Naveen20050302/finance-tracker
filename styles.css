@@ -1,0 +1,321 @@
+*{
+    margin: 0px;
+}
+body{
+    background-color: rgb(200, 200, 200);
+}
+header{
+    background-color: purple;
+    color: white;
+    height: 70px;
+}
+.h1{
+    position: relative;
+    top: 10px;
+}
+.sec{
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+}
+.form{
+    margin: 30px;
+    border: 1px solid gray;
+    border-radius: 20px;
+    padding: 5px;
+    width: 400px;
+    box-shadow: 4px 4px 8px;
+}
+.form1{
+    margin: 10px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 5px;
+    width: 400px;
+    border-radius: 20px;
+    box-shadow: 4px 4px 8px;
+}
+.hi{
+    display: flex;
+    margin: 15px;
+    position: relative;
+    left: 25%;
+    border-radius: 10px;
+    height: 25px;
+}
+.button{
+    position: relative;
+    left: 150px;
+    background-color: thistle;
+    color: white;
+    width: 90px;
+    border-radius: 20px;
+}
+.par{
+    position: relative;
+    left: 80px;
+}
+.foot{
+    margin-top: 243px;
+    background-color: black;
+    color: white;
+    margin-bottom: 0px;
+    height: 50px;
+}
+.foot1{
+    margin-top: 175px;
+    background-color: black;
+    color: white;
+    margin-bottom: 0px;
+    height: 39px;
+}
+.foot2{
+    margin-top: 30px;
+    background-color: black;
+    color: white;
+    margin-bottom: 0px;
+    height: 39px;
+}
+.p1{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 10px;
+}
+.one{
+    border: 1px solid gray;
+    margin: 20px;
+    border-radius: 20px;
+    box-shadow: 8px 8px 10px;
+    height: 550px;
+    padding: 10px;
+    font-size: large;
+}
+.one h2, .one h3{
+    color: blueviolet;
+}
+.one p{
+    font-size: large;
+}
+.to{
+    position: relative;
+    left: 43%;
+    color: burlywood;
+    top: 5px;
+}
+.tor{
+    position: relative;
+    left: 41%;
+    color: burlywood;
+    top: 5px;
+}
+.root{
+    border: 1px solid gray;
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height: 150px;
+    padding: 20px;
+    position: relative;
+    top: 60px;
+    left: 500px;
+    border-radius: 20px;
+    box-shadow: 4px 4px 8px;
+}
+label{
+    margin: 5px;
+    position: relative;
+    left: 35%;
+}
+.num{
+    width: 200px;
+    position: relative;
+    left: 25%;
+    border-radius: 20px;
+    height: 20px;
+}
+.num2{
+    width: 200px;
+    position: relative;
+    left: 25%;
+    border-radius: 20px;
+    height: 25px;
+}
+.num1{
+    width: 100px;
+    position: relative;
+    left: 35%;
+    top: 10px;
+    border-radius: 20px;
+    background-color: palevioletred;
+}
+.root1{
+    border: 1px solid gray;
+    /* margin-top: 100px; */
+    height: 280px;
+    width: 600px;
+    border-radius: 20px;
+    position: relative;
+    top: 100px;
+    left: 430px;
+    display: grid;
+    grid-template-columns: repeat(3, 150px);
+    grid-template-rows: max-content;
+    gap: 50px;
+    box-shadow: 4px 4px 8px;
+}
+.text{
+    position: relative;
+    top: 20px;
+    left: 30px;
+    border-radius: 20px;
+}
+.foot3{
+    margin-top: 130px;
+    background-color: black;
+    color: white;
+    margin-bottom: 0px;
+    height: 39px;
+}
+.wt{
+    position: relative;
+    top: 120px;
+    margin-left: 600px;
+}
+.a{
+    border: 1px solid grey;
+    width: 100px;
+    border-radius: 20px;
+    text-decoration: none;
+    background-color: darkmagenta;
+    color: white;
+}
+.wow{
+    margin-top: 80px;
+    color: darkorchid;
+    font-size: larger;
+    margin-left: 650px;
+}
+.wow1{
+    color: darkorchid;
+    font-size: larger;
+    margin-left: 650px;
+}
+.rat{
+    border: 1px solid gray;
+    width: 500px;
+    height: 100px;
+    border-radius: 20px;
+    margin-left: 470px;
+    box-shadow: 4px 4px 8px;
+}
+.rat1{
+    position: relative;
+    top: 30px;
+    left: 40px;
+    border-radius: 20px;
+}
+.nav{
+    position: relative;
+    left: 0px;
+}
+.div{
+    border: 1px solid gray;
+    width: 500px;
+    height: 50px;
+    margin-left: 470px;
+    border-radius: 20px;
+    box-shadow: 4px 4px 8px;
+}
+.nav,.nav1{
+    position: relative;
+    top: 10px;
+    left: 50px;
+    border-radius: 20px;
+}
+.foot4{
+    margin-top: 135px;
+    background-color: black;
+    color: white;
+    margin-bottom: 0px;
+    height: 39px;
+}
+.thp{
+    border: 1px solid gray;
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    padding: 20px;
+    width: 410px;
+    position: relative;
+    top: 110px;
+    left: 33%;
+    border-radius: 20px;
+    box-shadow: 4px 4px 8px;
+}
+.tht{
+    width: 400px;
+    margin: 10px 0px 10px;
+    border-radius: 20px;
+    height: 30px;
+    background-color: rgb(211, 211, 211);
+}
+::placeholder{
+    text-align: center;
+}
+textarea{
+    margin-top: 10px;
+    height: 100px;
+    border-radius: 20px;
+    text-align: center;
+    border: 3px solid gray;
+    background-color: rgb(211, 211, 211);
+}
+.tpt{
+    margin-top: 20px;
+    width: 80px;
+    margin-left: 40%;
+    border-radius: 20px;
+    background-color: darkmagenta;
+    color: white;
+}
+.cat{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 50px;
+    position: relative;
+    top: 200px;
+}
+.dic{
+    border: 1px solid gray;
+    width: 600px;
+    height: 250px;
+    margin: 100px;
+    padding: 20px;
+    position: relative;
+    left: 330px;
+    border-radius: 20px;
+    box-shadow: 4px 4px 8px;
+}
+.dac{
+    margin: 0px 15px;
+    width: 200px;
+    height: 20px;
+    border-radius: 20px;
+}
+.dac1{
+    margin: 0px 15px;
+    width: 80px;
+    height: 20px;
+    border-radius: 20px;
+    background-color: darkmagenta;
+}
+.pre{
+    background-color: black;
+    color: #ffffff;
+    height: 50px;
+    text-align: center;
+    position: relative;
+    top: 118px;
+}
